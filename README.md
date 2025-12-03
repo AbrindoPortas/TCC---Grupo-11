@@ -12,10 +12,14 @@ O sistema auxilia adultos tardiamente diagnosticados com TEA com suas dificuldad
 
 ## Tecnologias Utilizadas 
 - HTML5, CSS3, JavaScript ES2024
-- Node.js ()
+- Node.js (v22.13.0)
 - SQLite (3.42.0)
 
 ## Algumas imagens para demostrar o site desenvolvido (de preferência a "Home" e uma funcionalidade importante)
+
+<img width="1418" height="755" alt="Emoçoes" src="https://github.com/user-attachments/assets/cee8e392-d967-4231-ae52-460f135fd55c" />
+<img width="1425" height="775" alt="Home" src="https://github.com/user-attachments/assets/d2979839-5131-4def-ba4d-f63531590180" />
+<img width="1425" height="768" alt="Material de apoio" src="https://github.com/user-attachments/assets/8fd49c71-02d3-4b00-b95e-5560d2beb057" />
 
 ## Como executar o projeto (passo-a-passo)
 1.selecione a pasta meu-site e abra o terminal integrado
